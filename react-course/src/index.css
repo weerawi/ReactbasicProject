@@ -24,12 +24,12 @@ h2 {
   margin: 0 1rem;
 }
 
-btn--alt {
+.btn--alt {
   background-color: transparent;
   color: #800040;
 }
 
-btn--alt:hover {
+.btn--alt:hover {
   background-color: #f8dae9;
 }
 
